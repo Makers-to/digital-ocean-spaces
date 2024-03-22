@@ -26,7 +26,7 @@ pycparser==2.20
 Pygments==2.10.0
 pyparsing==2.4.7
 python-dateutil==2.8.2
-PyYAML==5.4.1
+PyYAML==6.0.1
 readme-renderer==29.0
 requests==2.26.0
 requests-toolbelt==0.9.1
